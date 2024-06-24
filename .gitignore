@@ -1,0 +1,8 @@
+# Ignore virtual environment folder
+agent-venv/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore any compressed artifacts
+*.zip
