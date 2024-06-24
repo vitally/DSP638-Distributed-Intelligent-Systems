@@ -16,6 +16,29 @@ This repository contains the solution for the homework assignment in the course 
 - `visualization.py`: Functions for plotting and visualizing the results.
 - `validation.py`: Unit tests to validate the solution.
 
+## Setting Up the Virtual Environment (Optional)
+
+To set up a virtual environment and install the required dependencies, follow these steps:
+
+1. **Create a Virtual Environment:**
+
+```bash
+python -m venv agent-venv
+```
+2. **Activate the Virtual Environment:**
+- On Windows
+```bash
+agent-venv\Scripts\activate
+```
+- On macOS/Linux
+```bash
+source egent-venv/bin/activate
+```
+3. **Deactivate the Virtual Environment(when done):**
+
+```bash
+deactivate
+```
 ## Prerequisites
 
 Ensure you have Python installed along with the necessary libraries. You can install the required libraries using:
